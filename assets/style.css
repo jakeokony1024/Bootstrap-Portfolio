@@ -1,0 +1,12 @@
+.container {
+    background-image: url("../assets/images/bryan-colosky-qHajeosTxBU-unsplash.jpg");
+    max-width: 100%;
+    margin: auto;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding: 20px;
+    text-align: center;
+    text-emphasis: bold;
+}
